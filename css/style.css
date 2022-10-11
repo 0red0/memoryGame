@@ -1,5 +1,6 @@
 body {
-   background-image: linear-gradient(to bottom, #272727,#272727, #3c4450, #42677a, #3c8d9c, #44b5af, #56c9af, #75dcaa, #9ceea1, #b0f294, #c7f587, #dff77b, #f9f871);
+   /* background-image: linear-gradient(to bottom, #272727,#272727, #3c4450, #42677a, #3c8d9c, #44b5af, #56c9af, #75dcaa, #9ceea1, #b0f294, #c7f587, #dff77b, #f9f871); */
+   background-image: url("../images/img\ \(2\).png");
    font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
       "Lucida Sans", Arial, sans-serif;
 }
